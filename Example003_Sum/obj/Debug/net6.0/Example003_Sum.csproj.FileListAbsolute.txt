@@ -1,0 +1,15 @@
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.exe
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.deps.json
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.runtimeconfig.json
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.dll
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\bin\Debug\net6.0\Example003_Sum.pdb
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.AssemblyReference.cache
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfoInputs.cache
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.AssemblyInfo.cs
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.csproj.CoreCompileInputs.cache
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.dll
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\refint\Example003_Sum.dll
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.pdb
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\Example003_Sum.genruntimeconfig.cache
+D:\Мои документы\Рабочий стол\Examples\Example003_Sum\obj\Debug\net6.0\ref\Example003_Sum.dll
